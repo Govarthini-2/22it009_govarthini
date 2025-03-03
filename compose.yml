@@ -1,1 +1,17 @@
+version: '3'
+services:
+  Govarthini:
+    image: "govarthini/22it009-personal-api"
+    container_name: govarthini_container
+    restart: always
+    ports:
+      - "5003:5000"
+
+  Nagajothi:
+    image: "nagajothi/22it024-personal-api"
+    container_name: naga_container
+    restart: always
+    ports:
+      - "5004:5000"
+    restart: always
 Update this file to add the content
