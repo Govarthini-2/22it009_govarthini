@@ -1,6 +1,6 @@
 # Need the below mentioned details as the submission
 ## 1 Commit the code in the respective files
-![image](https://github.com/user-attachments/assets/8a8d25a1-fd71-41d3-b47a-ae90b0ff409f)
+![image](https://github.com/user-attachments/assets/0c943701-0354-4a3f-a803-783edc19736e)
 ![image](https://github.com/user-attachments/assets/98a5ebfe-6643-4cec-ad81-31af7eec307d)
 ![image](https://github.com/user-attachments/assets/b5996710-7b92-489b-adf6-1e310b3fde0a)
 ![image](https://github.com/user-attachments/assets/2f59a411-a435-41f2-b8c4-3d4e77f8e50d)
