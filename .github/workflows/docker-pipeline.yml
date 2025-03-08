@@ -9,6 +9,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Docker Build
-        run: docker build -t Govarthini-2/ml-model-22it009 .
+        run: docker build -t Govarthini240/ml-model-22it009 .
       - name: Docker Images
         run: docker images
